@@ -1,2 +1,2 @@
 # github-advised-commit-changer
-Changes the advised first commit add command.
+Google Chrome Extension that changes the advised first commit add command.
